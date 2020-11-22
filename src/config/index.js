@@ -3,7 +3,7 @@ module.exports = {
     author: "@justinlev",
     siteTitle: "Justin Lev's Portfolio",
     siteShortTitle: "Justin Lev", // Used as logo text in header, footer, and splash screen
-    siteDescription: "A modern one-page portfolio with a clean yet expressive design.",
+    siteDescription: "I work on abything related to software, ecommerece and marketing.",
     siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
     siteLanguage: "en_US",
     siteIcon: "src/content/favicon.png", // Relative to gatsby-config file
