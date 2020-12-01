@@ -12,7 +12,7 @@ module.exports = {
 
     // You can create your own Medium feed with this rss to json converter: https://rss2json.com/
     // To access your Medium RSS feed, just replace this url with your username: https://medium.com/feed/@{yourname}
-    mediumRssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@justinbhalla28",
+    mediumRssFeed: "https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@realjustinlev",
    // mediumRssFeed: "https://medium.com/feed/@justinbhalla28",
     shownArticles: 3,
     
